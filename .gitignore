@@ -1,0 +1,7 @@
+venv
+
+/sample_submission.csv.gz
+
+/test.csv.gz
+/train.csv.gz
+
